@@ -391,3 +391,20 @@
 10. 工资分两次发，按照一半的实际工资缴纳五险一金。 
 11. 各种拖时间不给办理离职手续，直到我忍无可忍亲自给中科软北京总部法人左春写信，才给办理离职。
 ``
+```
+
+55. 成都路行通信息技术有限公司
+
+```
+一家面子工程做得特别足的公司，对员工特别差，各种务虚。
+1. 年会睡4人挤一间住五星级酒店，点外面送来的盒饭吃
+2. 团建吃不饱行政直接不准加菜，要加自己出钱
+3. 疫情从泰国买40w的口罩送政府，然后喊员工自备口罩来公司上班，给员工说没口罩了
+还有请看图（陈剑波是CEO，陈锐是CTO）
+```
+
+![图片1](https://raw.githubusercontent.com/Hootrix/Chengdu-IT-company-blacklist/master/resources/成都路行通信息技术有限公司/IMG_0178.JPG)
+
+![图片1](https://raw.githubusercontent.com/Hootrix/Chengdu-IT-company-blacklist/master/resources/成都路行通信息技术有限公司/IMG_0177.JPG)
+
+![图片1](https://raw.githubusercontent.com/Hootrix/Chengdu-IT-company-blacklist/master/resources/成都路行通信息技术有限公司/IMG_0179.JPG)
