@@ -408,3 +408,6 @@
 ![图片1](https://raw.githubusercontent.com/Hootrix/Chengdu-IT-company-blacklist/master/resources/成都路行通信息技术有限公司/IMG_0177.JPG)
 
 ![图片1](https://raw.githubusercontent.com/Hootrix/Chengdu-IT-company-blacklist/master/resources/成都路行通信息技术有限公司/IMG_0179.JPG)
+
+56. 色加佳软件有限公司
+> 裙带关系，职场PUA，天天想着法白嫖员工，老板架子比天还大，满口空话大饼，所有的承诺都是放屁
