@@ -612,17 +612,17 @@ hr之后把这件事汇报给ceo，ceo就来找我面谈，说我不关注工作
    
 ```
 1. 一审部分
-![](./resources/四川汉科计算机信息技术有限公司/full_img1.jpg)
+[一审](./resources/四川汉科计算机信息技术有限公司/full_img1.jpg)
 
 2. 二审部分
-![](./resources/四川汉科计算机信息技术有限公司/full_img2.jpg)
+[二审](./resources/四川汉科计算机信息技术有限公司/full_img2.jpg)
 
 3. 公司构成
-![](./resources/四川汉科计算机信息技术有限公司/company.jpg)
+[公司构成](./resources/四川汉科计算机信息技术有限公司/company.jpg)
 
 4. 股东变更信息
    想看看现在的老板有没换
    结果一开始的孙和李依旧是股东
-![](./resources/四川汉科计算机信息技术有限公司/tips.jpg)
+[股东变更信息](./resources/四川汉科计算机信息技术有限公司/tips.jpg)
 
 不知道现在这个公司内部是什么氛围了，但是要去的人还是谨慎些
